@@ -8,7 +8,7 @@
    4. docker container :- running instance of images
    5. docker registry :- it store the image
 
-   ## Installation of Docker and create container
+## Installation of Docker and create container
    1. sudo apt update
    2. sudo apt install docker.io -y
    3. sudo systemctl start docker
