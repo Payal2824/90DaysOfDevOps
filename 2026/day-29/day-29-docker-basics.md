@@ -3,9 +3,13 @@
 1. What is docker :- docker create images and image create container
 2. what is container :- container is a poratable , application running , dependeancy . it is use for packaging the application ,and using container is should be run on same everywhere or every system
 3. container component :-1. docker client  -> send  -> daemon
+ 
    2. docker daemon :- ru in the background process
+    
    3. docker images :- its is blueprint and template
+    
    4. docker container :- running instance of images
+    
    5. docker registry :- it store the image
 
 ## Installation of Docker and create container
