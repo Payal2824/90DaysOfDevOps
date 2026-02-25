@@ -30,3 +30,14 @@
   docker run --name=mycontainer nginx
 
   <img width="1916" height="1073" alt="image" src="https://github.com/user-attachments/assets/2e222b5c-b0b0-4ecd-856c-95639520d165" />
+
+
+  
+  <img width="1853" height="1051" alt="image" src="https://github.com/user-attachments/assets/6b741685-6aa6-4f28-babe-502f0e385ecb" />
+
+
+  <img width="1853" height="1051" alt="image" src="https://github.com/user-attachments/assets/0b6b3623-6ba3-4038-a445-748628bfaf65" />
+
+
+
+  
