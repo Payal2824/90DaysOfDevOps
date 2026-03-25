@@ -1,6 +1,6 @@
-#linux file read / write practice
+# linux file read / write practice
 
-##command 
+## command 
 1.create file :- touch notes.txt
 
 2.append the data on file :- echo "this is the 1st line" > notes.txt (> overwrite)
